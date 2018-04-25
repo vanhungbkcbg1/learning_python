@@ -1,0 +1,2 @@
+def manager():
+    print 'manager'
